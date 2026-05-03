@@ -1,0 +1,11 @@
+ticker,company_name,sector,country,currency
+ASML,ASML Holding,Technology,Netherlands,EUR
+SAP,SAP SE,Technology,Germany,EUR
+NOVO,Novo Nordisk,Healthcare,Denmark,DKK
+NESN,Nestle,Consumer Defensive,Switzerland,CHF
+AIR,Airbus,Industrials,France,EUR
+MC,LVMH,Consumer Cyclical,France,EUR
+SIE,Siemens,Industrials,Germany,EUR
+TTE,TotalEnergies,Energy,France,EUR
+SU,Schneider Electric,Industrials,France,EUR
+CAP,Capgemini,Technology,France,EUR
