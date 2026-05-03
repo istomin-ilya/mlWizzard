@@ -1,0 +1,15 @@
+Ticker: CAP
+Company: Capgemini
+Document type: educational synthetic company brief
+Fiscal period: 2025
+Generated for demo: 2026
+
+Capgemini is a French IT services and consulting company focused on digital transformation, cloud migration, engineering services, data, artificial intelligence, and enterprise technology implementation.
+
+The company benefits from long-term demand for IT modernization, cloud adoption, automation, cybersecurity, and AI-related consulting projects.
+
+Key strengths include global delivery scale, diversified client base, consulting capabilities, exposure to digital transformation, and recurring enterprise technology demand.
+
+Key risks include slower corporate IT budgets, pricing pressure, competition from global consulting and outsourcing firms, wage inflation, project execution risk, and client concentration in large enterprise accounts.
+
+For educational analysis, Capgemini represents a European technology services company with structural digital demand but sensitivity to corporate spending cycles.

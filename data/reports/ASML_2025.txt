@@ -1,0 +1,15 @@
+Ticker: ASML
+Company: ASML Holding
+Document type: educational synthetic company brief
+Fiscal period: 2025
+Generated for demo: 2026
+
+ASML is a Dutch technology company that supplies lithography systems used in semiconductor manufacturing. Its most important products are advanced lithography machines used by chip producers to manufacture smaller and more efficient semiconductors.
+
+The company benefits from long-term demand for artificial intelligence infrastructure, high-performance computing, data centers, and advanced semiconductor capacity. ASML has strong technological barriers to entry and a concentrated position in advanced lithography.
+
+Key strengths include technological leadership, pricing power, long customer relationships, and exposure to structural semiconductor demand.
+
+Key risks include export restrictions, geopolitical pressure, semiconductor cycle volatility, customer concentration, delayed capacity expansion by chipmakers, and high valuation sensitivity.
+
+For educational analysis, ASML represents a high-quality European technology company with strong structural demand but meaningful cyclical and geopolitical risks.

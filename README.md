@@ -203,6 +203,48 @@ ml-wizard/
 
 ---
 
+## RAG
+
+Build index:
+
+```bash
+uv run python -m src.rag.ingestion
+```
+
+Test retrieval:
+
+```bash
+uv run python -m src.rag.retrieval
+```
+
+**Current corpus:**
+
+```
+data/reports/
+├── ASML_2025.txt
+├── SAP_2025.txt
+├── NOVO_2025.txt
+├── NESN_2025.txt
+├── AIR_2025.txt
+├── MC_2025.txt
+├── SIE_2025.txt
+├── TTE_2025.txt
+├── SU_2025.txt
+└── CAP_2025.txt
+```
+
+The corpus contains synthetic educational company briefs.
+
+**Current test:**
+
+```
+Query: semiconductor demand and export restrictions
+Ticker: ASML
+Result: ASML_2025.txt
+```
+
+---
+
 ## Notes
 
 - The dataset is synthetic and reproducible.

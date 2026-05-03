@@ -1,0 +1,15 @@
+Ticker: AIR
+Company: Airbus
+Document type: educational synthetic company brief
+Fiscal period: 2025
+Generated for demo: 2026
+
+Airbus is a European aerospace and defense company that produces commercial aircraft, helicopters, defense systems, and space-related products.
+
+The company benefits from aircraft fleet renewal, commercial aviation demand, defense spending, and a large order backlog. Its business is strategically important for European industrial capacity.
+
+Key strengths include global scale, strong market position in aircraft manufacturing, long-term order visibility, and exposure to aviation recovery and defense demand.
+
+Key risks include supply chain constraints, production delays, regulatory requirements, airline demand cyclicality, execution risk, and cost overruns in complex industrial programs.
+
+For educational analysis, Airbus represents a strong European industrial company with long-term demand support but operational complexity and cyclical exposure.

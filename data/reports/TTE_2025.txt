@@ -1,0 +1,15 @@
+Ticker: TTE
+Company: TotalEnergies
+Document type: educational synthetic company brief
+Fiscal period: 2025
+Generated for demo: 2026
+
+TotalEnergies is a French integrated energy company active in oil, gas, refining, power, and renewable energy.
+
+The company benefits from global energy demand, integrated operations, cash flow generation from hydrocarbons, and gradual expansion into low-carbon energy assets.
+
+Key strengths include scale, diversified energy operations, strong cash generation, global asset base, and ability to invest across traditional and renewable energy segments.
+
+Key risks include commodity price volatility, energy transition pressure, regulation, carbon-related policy risk, project execution risk, and geopolitical exposure.
+
+For educational analysis, TotalEnergies represents a cash-generative European energy company with valuation support but significant commodity and transition risks.

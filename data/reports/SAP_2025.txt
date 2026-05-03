@@ -1,0 +1,15 @@
+Ticker: SAP
+Company: SAP SE
+Document type: educational synthetic company brief
+Fiscal period: 2025
+Generated for demo: 2026
+
+SAP is a German enterprise software company focused on ERP systems, business applications, cloud software, data management, and analytics.
+
+The company is shifting its business model toward cloud subscriptions and recurring revenue. This transition can improve revenue visibility and customer retention, but it also requires investment and disciplined execution.
+
+Key strengths include a large enterprise customer base, high switching costs, recurring revenue, strong brand recognition, and deep integration into corporate workflows.
+
+Key risks include cloud migration execution risk, competition from global software vendors, pressure on margins during transition periods, cybersecurity requirements, and slower corporate IT spending.
+
+For educational analysis, SAP represents a mature European software company with stable fundamentals and cloud-driven growth potential.
