@@ -203,6 +203,28 @@ ml-wizard/
 
 ---
 
+## Agent CLI
+
+Run:
+
+```bash
+uv run python -m src.cli "Analyze ASML"
+uv run python -m src.cli "Find European technology stocks with P/E below 30"
+uv run python -m src.cli "Compare SAP and ASML"
+uv run python -m src.cli "Run backtest"
+```
+
+The agent uses OpenAI tool calling to select project tools and generate a structured educational answer.
+
+**Implemented tools:**
+- `analyze_stock`
+- `screen_stocks`
+- `compare_stocks`
+- `run_backtest`
+- `search_knowledge_base`
+
+---
+
 ## RAG
 
 Build index:
