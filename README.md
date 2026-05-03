@@ -17,7 +17,13 @@ Current version includes:
 
 ## Setup
 
-Create virtual environment and install dependencies with `uv`:
+**Option 1 — recommended (`uv sync`):**
+
+```bash
+uv sync
+```
+
+**Option 2 — via `requirements.txt`:**
 
 ```bash
 uv venv
