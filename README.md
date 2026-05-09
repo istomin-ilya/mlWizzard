@@ -41,7 +41,7 @@ Required variables:
 
 ```env
 OPENAI_API_KEY=your_key_here
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-5.4-mini
 EMBEDDING_MODEL=text-embedding-3-small
 CHROMA_PATH=./data/chroma
 MODEL_PATH=./models/lightgbm_ranker.pkl
